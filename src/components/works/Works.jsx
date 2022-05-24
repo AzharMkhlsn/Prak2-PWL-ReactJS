@@ -9,14 +9,14 @@ import { Container } from 'reactstrap'
   
  
     return (
-    
+      <div className="work" id='work'>
       <Container >
         <h2>LIST PROJECT</h2>
         <hr />
      
          
       </Container>
-  
+      </div>
     )
   }
 
